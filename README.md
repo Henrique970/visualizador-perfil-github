@@ -45,4 +45,4 @@ A interface foi projetada para ser limpa e intuitiva, com foco na legibilidade d
 
 ---
 
-Desenvolvido por [Henrique Santos](https://github.com/h-henrique-s) 🚀
+Desenvolvido por [Henrique dos Santos](https://github.com/h-henrique-s) 🚀
